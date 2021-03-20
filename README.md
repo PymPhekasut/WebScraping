@@ -34,7 +34,7 @@ csv library
 
 -----------------------------------------------------------------------------
 
-**Requirement: **
+**Requirement:**
 
 You need to read Terms of Service, Privacy Policy accurately on the web you want to collect data.
  
