@@ -4,7 +4,7 @@ Collect data from website through web scraping using Python
 **This respiratory is to collect post from twitter user and display them on Line App.**
 -----------------------------------------------------------------------------
 
-**The implement for Web scraping:
+**The implement for Web scraping:**
 
 Data (purpose)
 
@@ -20,7 +20,7 @@ Data Visualization (how we present)
 
 -----------------------------------------------------------------------------
 
-**Software & Tools
+**Software & Tools**
 
 Python version 3 +
 
@@ -34,7 +34,7 @@ csv library
 
 -----------------------------------------------------------------------------
 
-**Requirement: 
+**Requirement: **
 
 You need to read Terms of Service, Privacy Policy accurately on the web you want to collect data.
  
